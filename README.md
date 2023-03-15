@@ -2,13 +2,11 @@
 
 ## Languages and Tools Utilized 🛠️
 
-* **HTML**
+* **Angular**
 * **CSS**
 * **Bootstrap**
-* **JavaScript**
-* **Java**
-* **Spring boot** 
-* **Hibernate**
+* **TypeScript**
+
 ---
 Made with ❤️ by [Rho](https://github.com/idrodrigo) 😊
 ---
